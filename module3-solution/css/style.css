@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+body {
+	color: #00141a;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 125%;
+}
+.navbar {
+	background-color: #4ddbff;
+}
+.navbar-brand {
+	font-weight: bold;
+}
+.nav {
+	background-color: #b3f0ff;
+	margin: 0;
+	font-size: 130%;
+}
+.navbar-collapse {
+	padding: 0;
+}
+.nav_list:hover {
+	background-color: #4ddbff
+}
+.nav_list_hr {
+	margin: 0;
+	padding: 0;
+}
+.item {
+	background-color: #e6faff;
+	height: 700px;
+	margin: 1% auto 1%;
+	border: 1px solid black;
+}
+.item_name {
+	text-align: center;
+	font-size: 125%;
+	margin: 1% auto 1%;
+}
+.item_text {
+	margin: 1% 1% 1%;;
+}
+.container {
+	width: 95%;
+}
